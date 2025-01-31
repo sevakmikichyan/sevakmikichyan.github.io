@@ -1,0 +1,93 @@
+@media screen and (max-width: 1250px) {
+  #works__section__content .card img {
+    height: 150px;
+  }
+}
+
+@media screen and (max-width: 1050px) {
+  #works__section__content .cards-block {
+    gap: 100px;
+  }
+
+  #works__section__content .card {
+    width: calc(50% - 100px) !important;
+  }
+}
+
+@media screen and (max-width: 1050px) {
+  #works__section__content .cards-block {
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+  }
+
+  #works__section__content .card {
+    width: 400px !important;
+  }
+
+  #works__section__content .card img {
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .nav .dropdown {
+    position: static;
+    transform: unset;
+  }
+
+  #works__section__content .card {
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .footer {
+    height: auto;
+    padding: 15px 0;
+  }
+
+  .footer__content {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .footer__content .contact-block {
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .footer__content .contact-block h4 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .footer__content .contact-block a {
+    font-size: 16px;
+    line-height: 22px;
+  }
+}
+
+@media screen and (max-width: 525px) {
+  #main__section {
+    padding: 200px 0;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .logo-link {
+    font-size: 25px;
+    gap: 5px;
+  }
+
+  .btn {
+    padding: 3px 12px;
+  }
+}
