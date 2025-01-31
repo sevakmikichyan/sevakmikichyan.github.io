@@ -164,7 +164,7 @@ body {
 }
 
 #main__section {
-  padding: 275px 0;
+  height: 500px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -178,11 +178,11 @@ body {
 @keyframes mainSection {
   0%,
   25% {
-    padding: 0;
+    height: 0;
   }
 
   100% {
-    padding: 275px 0;
+    height: 500px;
   }
 }
 
@@ -278,6 +278,7 @@ body {
 }
 
 .footer__content .contact-block h4 {
+  color: var(--color);
   margin: 0 !important;
   padding: 0 !important;
   font-size: 20px;
