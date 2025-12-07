@@ -1,0 +1,13 @@
+1:"$Sreact.fragment"
+2:I[83614,["/_next/static/chunks/6234d1e299c6f70e.js","/_next/static/chunks/5367c370570f4366.js","/_next/static/chunks/b3582c2ce5ccae75.js"],"default"]
+3:I[81578,["/_next/static/chunks/6234d1e299c6f70e.js","/_next/static/chunks/5367c370570f4366.js","/_next/static/chunks/b3582c2ce5ccae75.js"],"default"]
+4:I[99514,["/_next/static/chunks/6234d1e299c6f70e.js","/_next/static/chunks/5367c370570f4366.js","/_next/static/chunks/b3582c2ce5ccae75.js"],"default"]
+5:I[86803,["/_next/static/chunks/6234d1e299c6f70e.js","/_next/static/chunks/5367c370570f4366.js","/_next/static/chunks/b3582c2ce5ccae75.js"],"default"]
+6:I[79562,["/_next/static/chunks/6234d1e299c6f70e.js","/_next/static/chunks/5367c370570f4366.js","/_next/static/chunks/b3582c2ce5ccae75.js"],"default"]
+7:I[35508,["/_next/static/chunks/6234d1e299c6f70e.js","/_next/static/chunks/5367c370570f4366.js","/_next/static/chunks/b3582c2ce5ccae75.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+:HL["/_next/static/chunks/19cdf6876c2cbba5.css","style"]
+:HL["/_next/static/chunks/30718e32e17299a4.css","style"]
+0:{"buildId":"FNr3Z79__fsz1VqV_K277","rsc":["$","$1","c",{"children":[["$","$L2",null,{"name":"armenian-language","children":[["$","$L3",null,{}],["$","$L4",null,{"children":["$","$L5",null,{"children":[["$","$L6",null,{"heading":1,"align":"center","children":"Հայոց լեզու"}],["$","$L7",null,{"className":"mt-12"}]]}]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/19cdf6876c2cbba5.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/30718e32e17299a4.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/5367c370570f4366.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/b3582c2ce5ccae75.js","async":true}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],"loading":null,"isPartial":false}
+a:null
